@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/chirag/ipfs-gallery-dapp/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7110779d"
+  }
+]

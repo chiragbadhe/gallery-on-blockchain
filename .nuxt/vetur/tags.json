@@ -1,0 +1,32 @@
+{
+  "AddImage": {
+    "description": "Auto imported from components/AddImage.vue"
+  },
+  "LazyAddImage": {
+    "description": "Auto imported from components/AddImage.vue"
+  },
+  "Gallery": {
+    "description": "Auto imported from components/Gallery.vue"
+  },
+  "LazyGallery": {
+    "description": "Auto imported from components/Gallery.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ImageModal": {
+    "description": "Auto imported from components/ImageModal.vue"
+  },
+  "LazyImageModal": {
+    "description": "Auto imported from components/ImageModal.vue"
+  },
+  "Components": {
+    "description": "Auto imported from components/index.js"
+  },
+  "LazyComponents": {
+    "description": "Auto imported from components/index.js"
+  }
+}
